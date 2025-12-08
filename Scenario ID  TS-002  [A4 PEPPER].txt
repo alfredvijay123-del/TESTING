@@ -1,0 +1,7 @@
+Scenario ID : TS-002
+Scenario Name : A4 Sheet
+objective : Verify the user able to write the A4 Pepper
+pre-condition : The  A4 Pepper must have 20cm width and 30 cm height
+Test steps :1-Check the pepper has 20 cm width
+	    2-Check the pepper has 30 cm height
+Expected result :User success fully write the pepper

@@ -1,0 +1,8 @@
+Scenario Name : TS-003
+Scenario ID :calculate number's 
+Objective :Verify the user can calculate numbers
+Pre Condition :User must have 2 correct number's
+Test Steps : 1- Enter the 1st correct number
+	     2- press the calculation key you want	
+	     3- Enter the 2nd correct number 	
+Expected Result : User successfully calculate 2 number's 
