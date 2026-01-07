@@ -1,0 +1,12 @@
+Scenario ID : TS-001
+Scenario Name : Note pad
+Object : User able to save data in note pad
+Preparation : 1- User have note pad
+	      2- User must have a paragraph or like any notes
+Test Steps : 1-Open note pad
+	     2-Write the user thinks( paragraph or like any notes)
+	     3-Press control + S
+	     4-Select the folder user  want to save the file
+	     5-Press enter Key
+Expected result : User successfully save a file  
+	      
