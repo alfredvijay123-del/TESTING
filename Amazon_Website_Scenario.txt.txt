@@ -1,0 +1,44 @@
+ 			Amazon Website
+1.[LOGIN]
+Scenario ID : TS-001
+Scenario name : Login functionality
+Objective : Verify the user able to login with valid qualification
+Pre Condition :User must have valid email and password
+Test Steps : 1-go to Amazon website
+ 	     2-Enter valid email address
+ 	     3-Enter valid password
+ 	     4-Click the login button
+Expected Result :User successfully logined and moved to the home page
+
+2.[SEARCHING]
+Scenario ID : S-002
+Scenario Name : Searching functionality
+Objective : Ensure the search result return the correct product
+Pre Condition : The user is on home page
+Test Steps : 1-Enter the product name you wanted in search box
+ 	     2-click the search button
+Expected Result : User success fully got it the search product details
+
+
+3.[CART]
+Scenario ID : TS-003
+Scenario Name : Cart functionality
+Objective : Ensure user can cart the product
+Pre Condition : The product must bee seen in the home page
+Test Steps : 1-Select a product
+             2-Click "Add to cart"
+Expected Result : User successfully cart the item
+
+4.[ORDERING]
+Scenario ID : TS-004
+Scenario Name : Order functionality 
+Objective : Ensure user can order the correct product
+Pre Condition : 1-User must have a valid address
+		2-user must have a valid phone number
+Test Steps : 1- Select the product
+	     2- click the  "BUY NOW" button
+	     3- select the valid address
+	     4- select the payment method
+	     5- click "Place your order" button  
+Expected result : User successfully ordered a product
+		
